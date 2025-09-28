@@ -2,8 +2,9 @@ import React from 'react';
 
 function Hero() {
   return (
-    <div>
-        Hero
+    <div className="hero">
+        <h1>Personal Budget</h1>
+        <h2>A Personal-budget management app</h2>
     </div>
   );
 }
